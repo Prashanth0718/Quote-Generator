@@ -38,4 +38,3 @@ twitterBtn.addEventListener("click", () => {
 
 // Fetch the first quote when the page loads
 randomQuote();
- gi
