@@ -2,7 +2,7 @@
 
 This project is a simple web application that generates random quotes along with their authors. Users can generate a new quote, listen to the quote via text-to-speech, copy the quote to the clipboard, and share the quote on Twitter.
 
-![Screenshot](assets/outputScreenshot.png)  
+![Screenshot](assets/OutputScreenShot.png)  
 
 ## Features
 
