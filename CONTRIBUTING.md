@@ -1,59 +1,29 @@
 # Contributing to Quote Generator
 
-We welcome contributions to the Quote Generator project! Here’s a guide to help you get started:
+We welcome contributions from everyone. Here are some ways you can help:
 
-## How to Contribute
+## Reporting Bugs
 
-1. **Fork the Repository**:
-   - Click the "Fork" button on the top-right corner of this repository page to create your own copy of the repository.
+If you find a bug, please create an issue with a detailed description of the problem, including steps to reproduce it.
 
-2. **Clone Your Fork**:
-   - Clone the forked repository to your local machine:
-     ```bash
-     git clone https://github.com/Prashanth0718/Quote-Generator.git
-     ```
-   - Replace `https://github.com/Prashanth0718/Quote-Generator.git` with the URL of your forked repository if it’s different.
+## Suggesting Enhancements
 
-3. **Create a New Branch**:
-   - It’s best to create a new branch for your work:
-     ```bash
-     git checkout -b your-branch-name
-     ```
-   - Replace `your-branch-name` with a descriptive name for your branch (e.g., `feature/add-dark-mode`).
+If you have ideas for new features or improvements, please create an issue with a detailed description of your suggestion.
 
-4. **Make Your Changes**:
-   - Make the desired changes to the code or documentation.
+## Submitting Pull Requests
 
-5. **Commit Your Changes**:
-   - Stage and commit your changes:
-     ```bash
-     git add .
-     git commit -m "Describe your changes here"
-     ```
-   - Use a clear and descriptive commit message to explain what you’ve done.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
+3. Make your changes.
+4. Commit your changes: `git commit -m 'Add some feature'`.
+5. Push to the branch: `git push origin feature-name`.
+6. Open a pull request.
 
-6. **Push Your Changes**:
-   - Push your changes to your forked repository:
-     ```bash
-     git push origin your-branch-name
-     ```
+Please make sure your code follows our coding standards and includes tests for new features.
 
-7. **Create a Pull Request**:
-   - Go to the original repository and click on "New Pull Request."
-   - Select your branch and provide a description of your changes.
-   - Submit the pull request for review.
+## Coding Standards
 
-## Guidelines
-
-- **Code Style**: Follow the existing code style used in the project. Consistency is key.
-- **Documentation**: Update the documentation if your changes affect the usage or setup of the project.
-- **Tests**: If you add new features or fix bugs, include tests to cover your changes.
-- **Commit Messages**: Use clear and descriptive commit messages to explain your changes.
-
-## Reporting Issues
-
-If you find a bug or have a feature request, please [open an issue](https://github.com/Prashanth0718/Quote-Generator/issues) on GitHub with a detailed description.
-- Replace `https://github.com/Prashanth0718/Quote-Generator/issues` with the actual issues URL if different.
-
-Thank you for contributing!
+- Write clear, concise, and descriptive commit messages.
+- Follow the existing code style and structure.
+- Test your code thoroughly before submitting.
 
